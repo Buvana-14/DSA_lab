@@ -94,7 +94,8 @@ int main() {
     int startVertex;
     printf("Enter the start vertex for BFS: ");
     scanf("%d", &startVertex);
-
+    
+    
     printf("BFS Traversal: ");
     BFS(startVertex);
     printf("\n");
@@ -105,6 +106,7 @@ int main() {
 
     printf("Enter the start vertex for DFS: ");
     scanf("%d", &startVertex);
+
 
     printf("DFS Traversal: ");
     DFS(startVertex);

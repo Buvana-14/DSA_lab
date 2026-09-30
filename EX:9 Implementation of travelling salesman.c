@@ -40,4 +40,3 @@ int main() {
     printf("Minimum cost of the TSP: %d\n", minCost);
     return 0;
 }
-

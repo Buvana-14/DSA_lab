@@ -1,7 +1,7 @@
 #include <limits.h>
 #include <stdio.h>
 #include <stdbool.h>
- #define V 9
+#define V 9
  int minDistance(int dist[], bool sptSet[])
 {
     int min = INT_MAX, min_index;

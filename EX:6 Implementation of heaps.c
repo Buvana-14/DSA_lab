@@ -87,7 +87,35 @@ int main() {
             default:
                 printf("Invalid choice\n");
         }
+
+        
     }
 
     return 0;
 }
+
+Output :
+1. Insert
+2. Delete
+3. Display
+4. Exit
+
+Enter your choice: 1
+Enter element: 50
+
+Enter your choice: 1
+Enter element: 30
+
+Enter your choice: 1
+Enter element: 20
+
+Enter your choice: 1
+Enter element: 15
+
+Enter your choice: 3
+50 30 20 15
+
+Enter your choice: 2
+
+Enter your choice: 3
+30 15 20

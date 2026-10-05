@@ -163,3 +163,36 @@ void empty()
     else
        printf("Queue not empty");
 }
+
+Output :
+1 - Enqueue
+2 - Dequeue
+3 - Front element
+4 - Empty
+5 - Exit
+6 - Display
+7 - Queue size
+
+Enter choice: 1
+Enter data: 14
+
+Enter choice: 1
+Enter data: 85
+
+Enter choice: 1
+Enter data: 38
+
+Enter choice: 3
+Front element: 14
+
+Enter choice: 6
+14 85 38
+
+Enter choice: 7
+Queue size: 3
+
+Enter choice: 2
+Dequeued value: 14
+
+Enter choice: 6
+85 38

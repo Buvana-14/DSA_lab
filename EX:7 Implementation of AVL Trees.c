@@ -255,3 +255,7 @@ int main()
 
     return 0;
 }
+
+Output :
+Preorder Traversal: 4 2 1 3 7 5 8
+After deletion: 4 2 1 7 5 8

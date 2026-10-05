@@ -62,12 +62,12 @@ int main()
         e++;
     }
 
-    Output :
-
-Enter the expression: 245+*
-The result of expression 245+* = 18
-
     printf("\nThe result of expression %s = %d\n\n", exp, pop());
 
     return 0;
 }
+
+ Output :
+
+Enter the expression: 245+*
+The result of expression 245+* = 18

@@ -97,6 +97,8 @@ int main()
     return 0;
 }
 
+Output:
+
 Given array is:
 125 181 130 25 61 887
 Sorted array is:
